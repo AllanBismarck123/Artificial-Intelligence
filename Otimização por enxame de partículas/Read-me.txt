@@ -1,0 +1,5 @@
+O código 'pso-implementacao.py' usa as seguintes bibliotecas em python, favor instalar:
+
+- imageio
+- matplotlib
+- numpy
